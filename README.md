@@ -3,7 +3,6 @@ This code is prepared for CV contest held by deepshare.net
 
 ## Contest introduction
 ### 赛题-AI 视频分析大赛
-（除填写成绩外，请勿随意改动表格，凡参赛队员均需要添加客服）
 将开放采集自摄像机的原始视频数据集，从提供的视频中找出并判断所有的预先定义的n种人体行为。
 
 ### 评价标准
